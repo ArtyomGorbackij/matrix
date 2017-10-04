@@ -1,5 +1,5 @@
 # matrix
-'''
+
 #include <iostream>
 #include <sstream>
 using namespace std;
@@ -67,4 +67,3 @@ for (int i=0; i<3; i++) {
     }
     return 0;
 }
-  '''
